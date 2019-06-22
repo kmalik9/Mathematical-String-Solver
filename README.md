@@ -25,7 +25,3 @@ operator, the '-' before a number, used to represent negative numbers, will neve
 between the '-' sign and the number.
 
 You do not need to worry about invalid outputs.
-
-## Extra Credit
-
-Implement complex numbers
